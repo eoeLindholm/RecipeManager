@@ -1,3 +1,3 @@
 # RecipeManager
 
-A simple program with which I can learn javascript and react native.
+A simple program with which I can learn JavaScript and React Native.
